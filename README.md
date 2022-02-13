@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm Nikola Skibola</h1>
 <h3 align="center">A budding young Software Engineer from New York!</h3>
 
+- 📜 I have a degree in Computer Science and also graduated from <a href="https://www.fullstackacademy.com/" target="_blank">Fullstack Academy's</a> Software Engineering bootcamp.
+
 - 🌱 I’m currently learning **Typescript**
 
 - 💬 Ask me about the PERN Stack, Languages, and anything at all!
 
-- 📫 How to reach me: nikolaskibola@gmail.com
+- 📫 How to reach me: [Email me!](mailto:nikolaskibola@gmail.com)
+
 
 - ⚡ Fun fact: I'm the first in my family to have a College Degree!
 
