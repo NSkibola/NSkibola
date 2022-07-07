@@ -3,9 +3,11 @@
 
 - 📜 I have a degree in Computer Science and also graduated from <a href="https://www.fullstackacademy.com/" target="_blank">Fullstack Academy's</a> Software Engineering bootcamp.
 
-- 🌱 I’m currently learning **Typescript**
+- 🛠️ I currently work as a Full Stack Engineer at <a href="https://promevo.com/" target="_blank">Promevo.</a>
 
-- 💬 Ask me about the PERN Stack, Languages, and anything at all!
+- 🌱 I’m currently learning the **Google Cloud Platform**
+
+- 💬 Ask me about Sports, Coding, and anything at all that peaks your mind!
 
 - 📫 How to reach me: [Email me!](mailto:nikolaskibola@gmail.com)
  
